@@ -1,1 +1,0 @@
-SELECT countries.name,cities.name FROM countries,cities WHERE countries.code=cities.country_code;
