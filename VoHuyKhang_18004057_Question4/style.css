@@ -1,0 +1,28 @@
+body, input,section,option{
+    font-family: sans-serif;
+}
+body{
+    background-color: rgb(250, 247, 247);
+    background-image: url("./img/world.jpg");
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+table{
+    border-top: 3px outset rgb(207, 206, 241);
+    border-left: 3px outset rgb(207, 206, 241);
+    border-right: 3px outset rgb(34, 30, 172);
+    border-bottom: 3px outset rgb(34, 30, 172);
+	margin-left: auto;
+	margin-right: auto;
+}
+
+tr,th,td{
+    border: 2px solid rgb(6, 6, 209);
+    background-color: white;
+    padding: 0.25em;
+}
+th{
+    color: white;
+    background-color: #6495C0;
+}
